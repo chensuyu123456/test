@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1459956140 source:/home/chen/linuxC/baidu/main.cpp
+	<iostream>
+	<string>
+	"HttpRequest.h"
+	"baiduwork.h"
+
+1459958056 source:/home/chen/linuxC/baidu/HttpRequest.cpp
+	"HttpRequest.h"
+	<curl/curl.h>
+
+1459951580 /home/chen/linuxC/baidu/HttpRequest.h
+	<curl/curl.h>
+	<string>
+
+1459961162 source:/home/chen/linuxC/baidu/baiduwork.cpp
+	"baiduwork.h"
+	"HttpRequest.h"
+
+1459961074 /home/chen/linuxC/baidu/baiduwork.h
+	<string>
+	<iostream>
+
+1459992558 source:/home/chen/project/baidu/HttpRequest.cpp
+	"HttpRequest.h"
+	<curl/curl.h>
+
+1459991300 /home/chen/project/baidu/HttpRequest.h
+	<curl/curl.h>
+	<string>
+
+1459991300 source:/home/chen/project/baidu/baiduwork.cpp
+	"baiduwork.h"
+	"HttpRequest.h"
+
+1459991300 /home/chen/project/baidu/baiduwork.h
+	<string>
+	<iostream>
+
+1459991300 source:/home/chen/project/baidu/main.cpp
+	<iostream>
+	<string>
+	"HttpRequest.h"
+	"baiduwork.h"
+
+1460011264 source:/home/chen/Desktop/baidu/HttpRequest.cpp
+	"HttpRequest.h"
+	<curl/curl.h>
+
+1460011118 /home/chen/Desktop/baidu/HttpRequest.h
+	<curl/curl.h>
+	<string>
+
+1460097837 source:/home/chen/Desktop/baidu/main.cpp
+	<iostream>
+	<string>
+	"HttpRequest.h"
+	"baiduwork.h"
+
+1460018422 /home/chen/Desktop/baidu/baiduwork.h
+	<string>
+	<iostream>
+	<assert.h>
+
+1460097705 source:/home/chen/Desktop/baidu/baiduwork.cpp
+	"baiduwork.h"
+	"HttpRequest.h"
+
